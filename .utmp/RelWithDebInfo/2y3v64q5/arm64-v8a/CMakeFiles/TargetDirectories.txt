@@ -1,0 +1,5 @@
+D:/Develop/Tamagotchi2025/.utmp/RelWithDebInfo/2y3v64q5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Develop/Tamagotchi2025/.utmp/RelWithDebInfo/2y3v64q5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Develop/Tamagotchi2025/.utmp/RelWithDebInfo/2y3v64q5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Develop/Tamagotchi2025/.utmp/RelWithDebInfo/2y3v64q5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Develop/Tamagotchi2025/.utmp/RelWithDebInfo/2y3v64q5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
